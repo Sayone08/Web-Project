@@ -231,6 +231,10 @@ img {
 .wrap {
 	width: 80%;
 	margin: 0 auto;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 15px 0px;
 }
 
 
@@ -243,7 +247,6 @@ img {
 
 .logo {
 	float: left;
-	margin-top: 2.3em;
 }
 
 .top-nav {
@@ -260,12 +263,11 @@ img {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 0.8em;
 	display: block;
-	padding: 45px 30px 40px 30px;
+	padding: 15px;
 	display: block;
 	text-transform: uppercase;
 }
 
-.top-nav li.active>a,
 .top-nav li>a:hover {
 	color: #FFC809;
 	background: url(../images/marker.png) 50% 100%no-repeat;
@@ -411,7 +413,7 @@ img {
 /*----bottom-grids-----*/
 
 .bottom-grids {
-	padding: 5em 0 4em 0;
+	padding: 8px 0;
 	background: #f5c34c;
 	font-family: 'Open Sans', sans-serif;
 	position: relative;
@@ -462,9 +464,9 @@ img {
 }
 
 .copy-right p {
-	font-size: 1em;
+	font-size: 14px;
 	text-transform: uppercase;
-	color: #FFF
+	color: #222;
 }
 
 .copy-right a {

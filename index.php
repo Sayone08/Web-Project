@@ -1,4 +1,3 @@
-
 <!DOCTYPE HTML>
 <html>
 
@@ -51,18 +50,18 @@
 					<div class="clear"> </div>
 				</ul>
 			</div>
-			<div class="clear"> </div>
-			<!---End-top-nav---->
+			<!-- <div class="clear"> </div>
+			-End-top-nav-- -->
 		</div>
 	</div>
 	<!---End-header----->
 	<!--start-image-slider---->
 	<div class="slider">
 		<div class="camera_wrap camera_azure_skin" id="camera_wrap_1">
-			<div data-src="images/slider3.jpg"> </div>
-			<div data-src="images/slider2.jpg"> </div>
-			<div data-src="images/slider1.jpg"> </div>
-			<div data-src="images/slider2.jpg"> </div>
+			<div data-src="images/img1.jpg"> </div>
+			<div data-src="images/img2.jpg"> </div>
+			<div data-src="images/img3.jpg"> </div>
+			<div data-src="images/img4.jpg"> </div>
 		</div>
 		<div class="clear"> </div>
 	</div>
@@ -72,14 +71,11 @@
 		<div class="bottom-grids">
 			<div class="wrap">
 				<div class="copy-right">
-					<p>Auto/Taxi Stand Management System | Design by <a href="https://phpgurukul.com/">PHPGurukul</a></p>
+					<p>Auto/Taxi Stand Management System | Design by <a href="https://phpgurukul.com/">Sayone-Likhan</a></p>
 				</div>
 				
 			</div>
 		</div>
-	</div>
-	<!---End-contnet---->
-	</div>
 	<!---End-wrap----->
 </body>
 

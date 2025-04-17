@@ -44,9 +44,8 @@
 			<div class="top-nav">
 				<ul>
 					<li class="active"><a href="index.php">Home</a></li>
-					<li><a href="search.php" target="_blank">Check Stand Receipt</a></li>
 					<li><a href="admin/index.php">Admin</a></li>
-					
+					<li><a href="user-login.php">USER</a></li> <!-- Added USER option -->
 					<div class="clear"> </div>
 				</ul>
 			</div>
@@ -71,12 +70,13 @@
 		<div class="bottom-grids">
 			<div class="wrap">
 				<div class="copy-right">
-					<p>Auto/Taxi Stand Management System | Design by <a href="https://phpgurukul.com/">Sayone-Likhan</a></p>
+					<p>Auto/Taxi Stand Management System | Design by <a href="https://phpgurukul.com/">Sayone-Likhan</a>
+					</p>
 				</div>
-				
+
 			</div>
 		</div>
-	<!---End-wrap----->
+		<!---End-wrap----->
 </body>
 
 </html>

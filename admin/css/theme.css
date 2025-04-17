@@ -1081,6 +1081,13 @@ section {
     user-select: none;
 }
 
+
+/* Error message */
+.login-form p {
+    color: red;
+    font-size: 14px;
+}
+
 .au-checkbox input {
     position: absolute;
     opacity: 0;
